@@ -15,6 +15,9 @@ Tech Stack
 
 1) pip install flask
 2) python app.py
+   
+
+https://github.com/user-attachments/assets/6dcf3e84-2f29-4c8c-b9ab-d2080ac1e1f4
 
 
 
